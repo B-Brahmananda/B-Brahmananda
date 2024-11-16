@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @B-Brahmananda
-- 👀 I’m interested in CyberSecurity in General and Anomaly Detection in Industrial Control Systems in particular
-- 🌱 I’m currently learning AI/ML to apply it on Anomaly detection and leverage the power of MITRE ATT&CK Framework to detect Threat Actors
-- 💞️ I’m looking to collaborate on building ML Models that use Federated and Ensemble learning. 
-- 📫 How to reach me brahmanandab76@gmail.com
+# Hi, I'm @B-Brahmananda 👋
 
-<!---
-B-Brahmananda/B-Brahmananda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔒 **Cybersecurity Specialist** focusing on Industrial Control Systems (ICS) Security & Anomaly Detection
+
+🔍 Currently exploring:
+- AI/ML applications in threat detection
+- MITRE ATT&CK Framework implementation
+- Anomaly detection in ICS environments
+
+🤝 Open to collaborate on:
+- Federated Learning projects
+- Ensemble ML models for security
+- ICS security research
+
+📚 Skills & Interests:
+- Industrial Control Systems Security
+- Machine Learning for Cybersecurity
+- Threat Detection & Response
+- Security Framework Implementation
+
+📫 Reach me at: brahmanandab76@gmail.com
